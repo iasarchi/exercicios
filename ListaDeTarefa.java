@@ -32,7 +32,7 @@ public class ListaDeTarefa {
         ListaDeTarefa listaTarefa = new ListaDeTarefa();
         System.out.println(listaTarefa.obterNumeroTotalTarefas());
 
-        listaTarefa.adicionarTarefa("Teste 1");
+        listaTarefa.adicionarTarefa("Teste 2");
 
         System.out.println(listaTarefa.obterNumeroTotalTarefas());
     }
